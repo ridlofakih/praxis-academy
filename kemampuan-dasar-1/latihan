@@ -1,1 +1,13 @@
-sdasdasd
+~grub.txt~
+
+Tidak muncul Grub pada saat booting di leptop saya, karena saya cuma menggunakan linux saja, tidak menggunakan windows ataupun macos, hanya single boot, bukan dual boot.
+
+~env.txt~
+
+- Software yang ada di laptop saya : Software bawaan ElementaryOS, Gimp, Krita, Inkscape, Libre Office, Mozilla, Dropbox, VLC, FileZila, Google Chrome, Whatsapp, Telegram
+- Display Manager : ElementaryOS 5.1 Hera
+- Window manager : Gala
+- Desktop Environment : Pantheon
+- Shell : Plank (a dock), Epiphany (the default web browser) and Code (a simple text editor)
+Saya mengetahui informasi tersebut dari google dan wikipedia
+
